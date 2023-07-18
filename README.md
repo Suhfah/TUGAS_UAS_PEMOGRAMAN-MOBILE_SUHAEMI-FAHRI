@@ -1,5 +1,5 @@
 # TUGAS_UAS_PEMOGRAMAN-MOBILE_SUHAEMI_FAHRI
-                                                              Nama : Suhaemi Fahri Kelas : TI.20.D1 Nim : 3120104191
+Nama : Suhaemi Fahri Kelas : TI.20.D1 Nim : 3120104191
 
                                                               
 1. Form Handphone
