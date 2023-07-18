@@ -7,7 +7,7 @@
 ![WhatsApp Image 2023-07-18 at 06 33 33](https://github.com/Suhfah/TUGAS_UAS_PEMOGRAMAN-MOBILE_SUHAEMI-FAHRI/assets/121496532/1a9649dd-4e94-4edb-8faa-4c2745ad8ddf)
 
 
-3. Form Detail Handphone
+2. Form Detail Handphone
    
 ![WhatsApp Image 2023-07-18 at 06 33 48](https://github.com/Suhfah/TUGAS_UAS_PEMOGRAMAN-MOBILE_SUHAEMI-FAHRI/assets/121496532/aa2f7696-a6dd-4888-a02e-ab77ddf779d9)
 
